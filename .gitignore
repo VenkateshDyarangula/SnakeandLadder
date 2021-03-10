@@ -2,3 +2,4 @@
 *.csproj
 obj/
 bin/
+Player.cs
